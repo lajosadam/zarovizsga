@@ -1,4 +1,4 @@
-/*
+
 package hu.nive.ujratervezes.zarovizsga.dogtypes;
 
 import org.flywaydb.core.Flyway;
@@ -42,4 +42,4 @@ public class DogTypesTest {
         }
 
     }
-*/
+
